@@ -49,3 +49,25 @@ My latest attempt to make an AI that could teach itself simple board games. He l
 
 I made this before I took any AI courses, so I'll probably try again after that.
 
+
+
+
+## Borealis
+Group project for COMP 3020
+
+![Screenshot of Borealis]({{ BASE_PATH }}/borealis_screenshot_1.png)
+
+In COMP 3020, Human-Computer Interaction, our task was to create a mock-up interface for a web application. I created the interface above using HTML and CSS, while other members of the team hooked up the JavaScript and entered the mock data. Now if only the U of M would replace decide to their ancient Aurora system with Borealis. Standing offer!
+
+
+
+
+## Justice
+
+![Screenshot of Justice]({{ BASE_PATH }}/justice_screenshot_5.png)
+
+This is an older personal project of mine, one of my favorite abandoned games from before university. It has a user interface and level menu, complete with soundtrack and logo animation, and a complete first level.
+
+The player drives a police cruiser, tasked with pursuing a getaway car around a beautiful mountainous landscape. The AI car has a sequence of waypoints which it follows, while the player must catch up and either wreck the getaway car without totalling the cruiser, set up a roadblock, or shoot out the car's tires.
+
+Like all of my old projects, Justice was created in Unity and written in JavaScript. Before the project was abandoned, I did get it working on an Android phone, using tilt steering and UI controls.
