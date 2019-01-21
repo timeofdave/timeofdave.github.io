@@ -10,4 +10,4 @@ Available for PC download on [SourceForge](https://sourceforge.net/projects/rite
 
 I created the first version of RiteNote several years ago as a solution for taking notes in class, after finding that none of the existing applications had the clean, minimalistic, easy to use feel that I wanted.
 
-![Screenshot of MovieMap](https://github.com/timeofdave/timeofdave.github.io/edit/master/moviemap_screenshot2.png)
+![Screenshot of MovieMap](https://github.com/timeofdave/timeofdave.github.io/blob/master/moviemap_screenshot2.png)
