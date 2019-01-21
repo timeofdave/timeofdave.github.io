@@ -1,10 +1,10 @@
-## My Projects
+### My Projects
 
 This is a webpage for my personal projects. Not all of my projects are on GitHub (especially older ones) but since I am migrating to GitHub, I figured they should have a cozy home.
 
 Thanks for taking a look at some of things I enjoy spending free time working on!
 
-### [MovieMap](https://github.com/timeofdave/MovieMap)
+## [MovieMap](https://github.com/timeofdave/MovieMap)
 
 ![Screenshot of MovieMap]({{ BASE_PATH }}/moviemap_screenshot2.png)
 
@@ -15,7 +15,9 @@ MovieMap is under development. The UI is nearing MVP (minimum viable product), a
 
 
 
-### [RiteNote](https://sourceforge.net/projects/ritenote/)
+## [RiteNote](https://sourceforge.net/projects/ritenote/)
+
+![Screenshot of RiteNote]({{ BASE_PATH }}/ritenote_screenshot1.png)
 
 Available for PC download on [SourceForge](https://sourceforge.net/projects/ritenote/).
 
