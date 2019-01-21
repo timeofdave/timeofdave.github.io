@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## My Projects
 
-You can use the [editor on GitHub](https://github.com/timeofdave/timeofdave.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a webpage for my personal projects. Not all of my projects are on GitHub (especially older ones) but since I am migrating to GitHub, I figured they should have a cozy home.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Thanks for taking a look at some of things I enjoy spending free time working on!
 
-### Markdown
+### [RiteNote](https://sourceforge.net/projects/ritenote/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Available for PC download on [SourceForge](https://sourceforge.net/projects/ritenote/).
 
-```markdown
-Syntax highlighted code block
+I created the first version of RiteNote several years ago as a solution for taking notes in class, after finding that none of the existing applications had the clean, minimalistic, easy to use feel that I wanted.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/timeofdave/timeofdave.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Screenshot of MovieMap](https://github.com/timeofdave/timeofdave.github.io/edit/master/moviemap_screenshot2.png)
