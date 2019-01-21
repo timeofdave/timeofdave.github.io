@@ -6,7 +6,7 @@ Thanks for taking a look at some of things I enjoy spending free time working on
 
 ### [MovieMap](https://github.com/timeofdave/MovieMap)
 
-![Screenshot of MovieMap](https://github.com/timeofdave/timeofdave.github.io/blob/master/moviemap_screenshot2.png)
+![Screenshot of MovieMap]({{ BASE_PATH }}/moviemap_screenshot2.png)
 
 Have you ever browsed Netflix aimlessly, hoping to find a movie you might like to watch? Have you ever googled 'best action movie list' in hopes of discovering a hidden gem of Hollywood? MovieMap predicts which movies you might like based on your similarity to other users. It's as if someone with the exact same taste as yourself ranked every movie out there and handed you the list.
 
