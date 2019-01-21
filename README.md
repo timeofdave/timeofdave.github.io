@@ -70,4 +70,4 @@ This is an older personal project of mine, one of my favorite abandoned games fr
 
 The player drives a police cruiser, tasked with pursuing a getaway car around a beautiful mountainous landscape. The AI car has a sequence of waypoints which it follows, while the player must catch up and either wreck the getaway car without totalling the cruiser, set up a roadblock, or shoot out the car's tires.
 
-Like all of my old projects, Justice was created in Unity and written in JavaScript. Before the project was abandoned, I did get it working on an Android phone, using tilt steering and UI controls.
+Like all my old projects, Justice was created in Unity and written in JavaScript. Before the project was abandoned, I did get it working on an Android phone, using tilt steering and UI controls.
