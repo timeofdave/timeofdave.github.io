@@ -17,7 +17,7 @@ MovieMap is under development. The UI is nearing MVP (minimum viable product), a
 
 ## [RiteNote](https://sourceforge.net/projects/ritenote/)
 
-![Screenshot of RiteNote]({{ BASE_PATH }}/ritenote_screenshot1.png)
+![Screenshot of RiteNote]({{ BASE_PATH }}/ritenote_screenshot2.png)
 
 Available for PC download on [SourceForge](https://sourceforge.net/projects/ritenote/).
 
