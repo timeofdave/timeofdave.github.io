@@ -1,10 +1,10 @@
-### My Projects
+### [My Projects](https://github.com/timeofdave)
 
 This is a webpage for my projects. Not all of my projects are on GitHub (especially older ones) but since I am migrating to GitHub, I figured they should have a cozy home.
 
 Unless explicitly stated, these are personal interest projects that I have created alone, outside of school or work. Thanks for taking a look at some of things I enjoy spending free time working on!
 
-
+After browsing this page, feel free to check out [my GitHub repository](https://github.com/timeofdave)
 
 
 ## [MovieMap](https://github.com/timeofdave/MovieMap)
@@ -47,8 +47,7 @@ It was created using Livecode, which is a business-app creator that isn't very g
 
 My latest attempt to make an AI that could teach itself simple board games. He learns quite well if a human takes the time to play against him, but he's still pretty shoddy if he only plays against himself.
 
-I made this before I took any AI courses, so I'll probably try again after that.
-
+I made this before I took any AI courses, so I'll probably try again after that. It's written in Java.
 
 
 
@@ -70,4 +69,4 @@ This is an older personal project of mine, one of my favorite abandoned games fr
 
 The player drives a police cruiser, tasked with pursuing a getaway car around a beautiful mountainous landscape. The AI car has a sequence of waypoints which it follows, while the player must catch up and either wreck the getaway car without totalling the cruiser, set up a roadblock, or shoot out the car's tires.
 
-Like all my old projects, Justice was created in Unity and written in JavaScript. Before the project was abandoned, I did get it working on an Android phone, using tilt steering and UI controls.
+Like all my old 3D projects, Justice was created in Unity and written in JavaScript. Before the project was abandoned, I did get it working on an Android phone, using tilt steering and UI controls.
