@@ -26,7 +26,7 @@ Bermuda is a board game, not a video game, but there's also a companion app/webs
 
 ## Gravity
 
-![Screenshot of Gravity]({{ BASE_PATH }}/gravity-screenshot.png)
+![Screenshot of Gravity]({{ BASE_PATH }}/gravity-screenshot.jpg)
 
 Gravity is a Kerbal Space Program clone that I built with a fellow KSP fan. It won't likely get any more attention and goodness knows the graphics could use it, but it did provide my an opportunity to tackle problems most games don't have to worry about: predictable orbital physics and time warping. That's a problem that KSP has always had to compromise on and I had to try my hand at solving it. No spoilers on whether I was successful.
 
