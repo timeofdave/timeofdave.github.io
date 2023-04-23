@@ -1,5 +1,3 @@
-### [My Projects](https://github.com/timeofdave)
-
 Welcome! This is a webpage where I highlight some of my personal projects. Most of my projects are not on GitHub (especially older ones), but I figured they should have a cozy home in case someone wants to know what I work on outside of work!
 
 
@@ -19,7 +17,7 @@ If possible, this could make the fluids in games far more dynamic without steali
 
 ![Screenshot of Bermuda]({{ BASE_PATH }}/bermuda-demo1.png)
 
-Bermuda is a board game, not a video game, but there's also a companion app/website that you'll need to play the game. This project has been my most structured attempt at game design to date, requiring extensive economy, pace, and randomness balancing. But it has also been an outlet for my artistic side, letting me design tiles, cards, and documentation which meet my personal standards of attractiveness and functionality.
+Bermuda is a board game, not a video game, but there's also a companion app/website that you'll use to play the game. This project has been my most structured attempt at game design to date, requiring extensive economy, pace, and randomness balancing. But it has also been an outlet for my artistic side, letting me design tiles, cards, and documentation which meet my personal standards of attractiveness and functionality.
 
 
 
@@ -28,12 +26,12 @@ Bermuda is a board game, not a video game, but there's also a companion app/webs
 
 ![Screenshot of Gravity]({{ BASE_PATH }}/gravity-screenshot.jpg)
 
-Gravity is a Kerbal Space Program clone that I built with a fellow KSP fan. It won't likely get any more attention and goodness knows the graphics could use it, but it did provide my an opportunity to tackle problems most games don't have to worry about: predictable orbital physics and time warping. That's a problem that KSP has always had to compromise on and I had to try my hand at solving it. No spoilers on whether I was successful.
+Gravity is a Kerbal Space Program clone that I built with a fellow KSP fan. It likely won't get any more attention and goodness knows the graphics could use it, but it did provide me an opportunity to tackle problems most games don't have to worry about: predictable orbital physics and time warping. That's a problem that KSP has always had to compromise on and I had to try my hand at solving it. No spoilers on whether I was successful.
 
 
 
 
-## [MovieMap](https://github.com/timeofdave/MovieMap)
+## MovieMap
 
 ![Screenshot of MovieMap]({{ BASE_PATH }}/moviemap_screenshot2.png)
 
@@ -44,7 +42,7 @@ MovieMap is under development. The UI is nearing MVP (minimum viable product), a
 
 
 
-## [RiteNote](https://sourceforge.net/projects/ritenote/)
+## RiteNote
 
 ![Screenshot of RiteNote]({{ BASE_PATH }}/ritenote_screenshot_2.png)
 
@@ -61,7 +59,7 @@ It was created using Livecode, which is a business-app creator that isn't very g
 
 ![Screenshot of TicTacToe AI]({{ BASE_PATH }}/tictactoe_screenshot_1.png)
 
-This was an young and naive attempt to make an AI that could teach itself simple board games. It learns quite well if a human takes the time to play against him, but it's still pretty shoddy if it only plays against itself.
+This was a young and naive attempt to make an AI that could teach itself simple board games. It learns quite well if a human takes the time to play against him, but it's still pretty shoddy if it only plays against itself.
 
 I made this before I took any AI courses, so I'll probably try again at some point. It was written in Java.
 
@@ -72,7 +70,7 @@ I made this before I took any AI courses, so I'll probably try again at some poi
 
 ![Screenshot of Justice]({{ BASE_PATH }}/justice_screenshot_5.png)
 
-This is a very old personal project of mine, the favorite of my many abandoned game projects from before university. It had a user interface and level menu, complete with soundtrack and logo animation, and a complete first level.
+This is a very old personal project of mine, the favorite of my many abandoned game projects from before university. It had a user interface and level menu complete with soundtrack and logo animation, a first level with win conditions, and that classic Unity grass texture.
 
 The player drives a police cruiser, tasked with pursuing a getaway car around a beautiful mountainous landscape. The AI car has a sequence of waypoints which it follows, while the player must catch up and either wreck the getaway car without totalling the cruiser, set up a roadblock, or shoot out the car's tires.
 
