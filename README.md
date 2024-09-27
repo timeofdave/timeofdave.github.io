@@ -4,7 +4,7 @@ Welcome! This is a webpage where I highlight some of my personal projects. Most 
 
 ## Road Riddle
 
-![Screenshot of Road Riddle]({{ BASE_PATH }}/sample3.jpg)
+![Screenshot of Road Riddle]({{ BASE_PATH }}/sample4.jpg)
 
 Road Riddle is a PC game that fits into the puzzle and simulation genres. The player creates the roads which complete a highway intersection, and cars try to navigate across the map. Completing a level involves building all necessary routes without using too much concrete or causing massive traffic jams. There are buildings and mountains to deal with too, but players will find the biggest obstacle is all the other cars on the road.
 
